@@ -1,0 +1,12 @@
+.App-header {
+    border-bottom: 2px solid rgb(0, 204, 255);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .App-header-logo {
+    width: 102px;
+    height: 32px;
+  }
