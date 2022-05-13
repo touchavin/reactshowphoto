@@ -23,6 +23,18 @@ const items = [
     title: "ขนม",
     thumbnailUrl: "/img/portfolio-9.jpg",
   },
+  {
+    title: "ขนม",
+    thumbnailUrl: "/img/portfolio-9.jpg",
+  },
+  {
+    title: "ขนม",
+    thumbnailUrl: "/img/portfolio-9.jpg",
+  },
+  {
+    title: "ขนม",
+    thumbnailUrl: "/img/portfolio-9.jpg",
+  },
 ];
 
 export default items;
